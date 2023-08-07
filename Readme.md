@@ -1,0 +1,1 @@
+This repo contains open source codes and resources on how to control a hoverboard motors using motherboard/motorcontroller.
